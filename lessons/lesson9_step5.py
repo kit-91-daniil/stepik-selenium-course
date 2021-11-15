@@ -24,6 +24,7 @@ input_field.send_keys(result)
 
 button = browser.find_element_by_css_selector("button")
 
+
 button.click()
 
 # browser.quit()
