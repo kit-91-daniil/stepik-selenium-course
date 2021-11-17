@@ -1,0 +1,30 @@
+1637145190325	geckodriver	INFO	Listening on 127.0.0.1:56343
+1637145191333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesOMuQS"
+1637145192074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesOMuQS/search.json.mozlz4", (void 0)))
+1637145193509	Marionette	INFO	Listening on port 42241
+1637145193562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1637145216086	Marionette	INFO	Stopped listening on port 42241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637145228732	geckodriver	INFO	Listening on 127.0.0.1:43223
+1637145228743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFbEe2a"
+1637145229257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFbEe2a/search.json.mozlz4", (void 0)))
+1637145230442	Marionette	INFO	Listening on port 42989
+1637145230479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1637145262571	Marionette	INFO	Stopped listening on port 42989
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1637146506158	geckodriver	INFO	Listening on 127.0.0.1:48663
+1637146506167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4A8VWv"
+1637146506694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4A8VWv/search.json.mozlz4", (void 0)))
+1637146507969	Marionette	INFO	Listening on port 43125
+1637146507986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
